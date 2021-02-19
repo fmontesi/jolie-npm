@@ -1,0 +1,13 @@
+{
+	"name": "jolie-npm-demo",
+	"version": "1.0.0",
+	"description": "A demo on using npm to distribute Jolie projects",
+	"main": "main.ol",
+	"scripts": {
+		"start": "jolie main.ol",
+		"test": "jolie main.ol"
+	},
+	"keywords": [ "jolie" ],
+	"author": "Fabrizio Montesi <famontesi@gmail.com> (https://fabriziomontesi.com)",
+	"license": "LGPL v2.1"
+}
